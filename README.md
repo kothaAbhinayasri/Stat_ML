@@ -54,7 +54,6 @@ The Random Forest model achieved the best performance with the lowest error rate
 ## Installation and Usage
 1. Clone the repository:
 
-git clone https://github.com/yourusername/air-quality-prediction.git
 
 Copy code
 2. Install dependencies:
